@@ -1,0 +1,175 @@
+.version.design_in_portugal /* version checker */
+{
+	color: #0000F9;
+	background-color: #A98D1E;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#ppu10600
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 28px;
+}
+
+#pu10600
+{
+	width: 0.01px;
+	padding-bottom: 6px;
+}
+
+#u10600
+{
+	z-index: 2;
+	width: 36px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 10px;
+}
+
+#u10575
+{
+	z-index: 5;
+	width: 36px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 10px;
+}
+
+#u10575:hover
+{
+	width: 36px;
+	min-height: 0px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#u10571
+{
+	z-index: 6;
+}
+
+#u4707-4
+{
+	z-index: 12;
+	width: 252px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #00FF00;
+	text-align: left;
+	font-size: 28px;
+	line-height: 34px;
+	font-family: montserrat, sans-serif;
+	font-weight: 400;
+	margin-top: 274px;
+	position: relative;
+}
+
+#u4703-9
+{
+	z-index: 18;
+	width: 278px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #606060;
+	text-align: left;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u4703-3
+{
+	font-size: 19px;
+	line-height: 23px;
+}
+
+#u4703-2
+{
+	font-family: montserrat, sans-serif;
+	font-weight: 400;
+}
+
+#u4708-4
+{
+	z-index: 8;
+	width: 333px;
+	min-height: 309px;
+	background-color: transparent;
+	margin-top: 18px;
+	position: relative;
+}
+
+#pu4704
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	margin-left: 458px;
+}
+
+#u4704
+{
+	z-index: 16;
+	width: 43px;
+	background-color: transparent;
+	margin-left: 439px;
+	position: relative;
+}
+
+#u4705
+{
+	z-index: 17;
+	display: block;
+}
+
+#u4036
+{
+	z-index: 4;
+	width: 501px;
+	margin-top: 45px;
+	position: relative;
+}
+
+#u4706
+{
+	z-index: 7;
+	width: 500px;
+	height: 713px;
+	position: relative;
+	margin-right: -10000px;
+	left: 2px;
+	background: transparent url("../images/miguel2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 6px;
+}
+
+

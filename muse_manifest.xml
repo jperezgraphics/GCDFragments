@@ -1,0 +1,184 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.fragments.com" resolutions="1x" timestamp="1465935634782">
+  <folder name="css">
+    <file name="site_global.css" crc="3960109764"/>
+    <file name="master_b-master.css" crc="423829490" ref="future-foods:leave-no-trace:her-sound:in-between:data-travel:design-in-portugal:being-female"/>
+    <file name="master_d-master.css" crc="4079218980" ref="translation-aid-for-gurkhas:sunny-skies:sa-magazine:there-is-no-place:scent-visualisation:wander:seek:wise-waste"/>
+    <file name="master_c-master.css" crc="401954089" ref="not-made-here:reality-to-fantasy:out-of-sight,-out-of-mind:play.learn:multicultural-london-english:photoshop-cosmetic:life-online:magazine-colour-trends"/>
+    <file name="index.css" crc="3871002028" ref="index"/>
+    <file name="future-foods.css" crc="4128353130" ref="future-foods"/>
+    <file name="not-made-here.css" crc="315482007" ref="not-made-here"/>
+    <file name="translation-aid-for-gurkhas.css" crc="235868423" ref="translation-aid-for-gurkhas"/>
+    <file name="sunny-skies.css" crc="226177689" ref="sunny-skies"/>
+    <file name="reality-to-fantasy.css" crc="518897228" ref="reality-to-fantasy"/>
+    <file name="leave-no-trace.css" crc="3818307216" ref="leave-no-trace"/>
+    <file name="out-of-sight_-out-of-mind.css" crc="503611583" ref="out-of-sight,-out-of-mind"/>
+    <file name="her-sound.css" crc="3793371867" ref="her-sound"/>
+    <file name="sa-magazine.css" crc="4216186270" ref="sa-magazine"/>
+    <file name="in-between.css" crc="237990561" ref="in-between"/>
+    <file name="play_learn.css" crc="3863507552" ref="play.learn"/>
+    <file name="there-is-no-place.css" crc="3913478790" ref="there-is-no-place"/>
+    <file name="scent-visualisation.css" crc="3148812" ref="scent-visualisation"/>
+    <file name="multicultural-london-english.css" crc="3968179301" ref="multicultural-london-english"/>
+    <file name="wander.css" crc="288337082" ref="wander"/>
+    <file name="photoshop-cosmetic.css" crc="416213248" ref="photoshop-cosmetic"/>
+    <file name="life-online.css" crc="254850037" ref="life-online"/>
+    <file name="data-travel.css" crc="449557354" ref="data-travel"/>
+    <file name="design-in-portugal.css" crc="4188638494" ref="design-in-portugal"/>
+    <file name="being-female.css" crc="4174685088" ref="being-female"/>
+    <file name="magazine-colour-trends.css" crc="196020818" ref="magazine-colour-trends"/>
+    <file name="seek.css" crc="148928765" ref="seek"/>
+    <file name="wise-waste.css" crc="4100279886" ref="wise-waste"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:future-foods:reality-to-fantasy:photoshop-cosmetic:there-is-no-place:being-female:data-travel:wise-waste:translation-aid-for-gurkhas:her-sound:in-between:multicultural-london-english:life-online:magazine-colour-trends:not-made-here:leave-no-trace:sa-magazine:scent-visualisation:seek:design-in-portugal:out-of-sight,-out-of-mind:sunny-skies:play.learn:wander"/>
+    <file name="museutils.js" crc="3790713428" ref="index:future-foods:reality-to-fantasy:photoshop-cosmetic:there-is-no-place:being-female:data-travel:wise-waste:translation-aid-for-gurkhas:her-sound:in-between:multicultural-london-english:life-online:magazine-colour-trends:not-made-here:leave-no-trace:sa-magazine:scent-visualisation:seek:design-in-portugal:out-of-sight,-out-of-mind:sunny-skies:play.learn:wander"/>
+    <file name="whatinput.js" crc="84559013" ref="index:future-foods:reality-to-fantasy:photoshop-cosmetic:there-is-no-place:being-female:data-travel:wise-waste:translation-aid-for-gurkhas:her-sound:in-between:multicultural-london-english:life-online:magazine-colour-trends:not-made-here:leave-no-trace:sa-magazine:scent-visualisation:seek:design-in-portugal:out-of-sight,-out-of-mind:sunny-skies:play.learn:wander"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:future-foods:reality-to-fantasy:photoshop-cosmetic:there-is-no-place:being-female:data-travel:wise-waste:translation-aid-for-gurkhas:her-sound:in-between:multicultural-london-english:life-online:magazine-colour-trends:not-made-here:leave-no-trace:sa-magazine:scent-visualisation:seek:design-in-portugal:out-of-sight,-out-of-mind:sunny-skies:play.learn:wander"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="future-foods:reality-to-fantasy:photoshop-cosmetic:there-is-no-place:being-female:data-travel:wise-waste:translation-aid-for-gurkhas:her-sound:in-between:multicultural-london-english:life-online:magazine-colour-trends:not-made-here:leave-no-trace:sa-magazine:scent-visualisation:seek:design-in-portugal:out-of-sight,-out-of-mind:sunny-skies:play.learn:wander"/>
+  </folder>
+  <folder name="images">
+    <file name="green3.svg" crc="243302569" ref="index"/>
+    <file name="green3_poster_.png" crc="3995179665" ref="index"/>
+    <file name="green2.svg" crc="404605756" ref="index"/>
+    <file name="green2_poster_.png" crc="3977023212" ref="index"/>
+    <file name="green1.svg" crc="4005885928" ref="index"/>
+    <file name="green1_poster_.png" crc="4193661629" ref="index"/>
+    <file name="1.jpg" crc="3789890322" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2.jpg" crc="4285330232" seo="true" ref="index"/>
+    <file name="3.jpg" crc="292927478" seo="true" ref="index"/>
+    <file name="4.jpg" crc="4106785358" seo="true" ref="index"/>
+    <file name="5.jpg" crc="4279431837" seo="true" ref="index"/>
+    <file name="6.jpg" crc="4280572096" seo="true" ref="index"/>
+    <file name="7.jpg" crc="530365167" seo="true" ref="index"/>
+    <file name="8.jpg" crc="74607316" seo="true" ref="index"/>
+    <file name="9.jpg" crc="4097484971" seo="true" ref="index"/>
+    <file name="9-.jpg" crc="529967097" seo="true" ref="index"/>
+    <file name="10.jpg" crc="319111837" seo="true" ref="index"/>
+    <file name="11.jpg" crc="4270620261" seo="true" ref="index"/>
+    <file name="12.jpg" crc="27005684" seo="true" ref="index"/>
+    <file name="13.jpg" crc="14881897" seo="true" ref="index"/>
+    <file name="14.jpg" crc="91921665" seo="true" ref="index"/>
+    <file name="15.jpg" crc="4227538273" seo="true" ref="index"/>
+    <file name="16.jpg" crc="423328984" seo="true" ref="index"/>
+    <file name="17.jpg" crc="489978511" seo="true" ref="index"/>
+    <file name="18.jpg" crc="3789039281" seo="true" ref="index"/>
+    <file name="19.jpg" crc="4137628756" seo="true" ref="index"/>
+    <file name="20.jpg" crc="4021574488" seo="true" ref="index"/>
+    <file name="21.jpg" crc="408902863" seo="true" ref="index"/>
+    <file name="22.jpg" crc="4277294455" seo="true" ref="index"/>
+    <file name="23.jpg" crc="392452304" seo="true" ref="index"/>
+    <file name="153x76.jpg" crc="11310466" seo="true" ref="index"/>
+    <file name="253x76.jpg" crc="4019114726" seo="true" ref="index"/>
+    <file name="353x76.jpg" crc="4094331740" seo="true" ref="index"/>
+    <file name="453x76.jpg" crc="4189411224" seo="true" ref="index"/>
+    <file name="553x76.jpg" crc="223667374" seo="true" ref="index"/>
+    <file name="653x76.jpg" crc="3772858219" seo="true" ref="index"/>
+    <file name="753x76.jpg" crc="162583882" seo="true" ref="index"/>
+    <file name="853x76.jpg" crc="4291316518" seo="true" ref="index"/>
+    <file name="953x76.jpg" crc="188219004" seo="true" ref="index"/>
+    <file name="9-53x76.jpg" crc="28038392" seo="true" ref="index"/>
+    <file name="1053x76.jpg" crc="194371138" seo="true" ref="index"/>
+    <file name="1153x76.jpg" crc="4206624344" seo="true" ref="index"/>
+    <file name="1253x76.jpg" crc="3889646046" seo="true" ref="index"/>
+    <file name="1353x76.jpg" crc="4223267581" seo="true" ref="index"/>
+    <file name="1453x76.jpg" crc="478721148" seo="true" ref="index"/>
+    <file name="1553x76.jpg" crc="3768666664" seo="true" ref="index"/>
+    <file name="1653x76.jpg" crc="4099838047" seo="true" ref="index"/>
+    <file name="1753x76.jpg" crc="441414121" seo="true" ref="index"/>
+    <file name="1853x76.jpg" crc="3775951588" seo="true" ref="index"/>
+    <file name="1953x76.jpg" crc="4234917172" seo="true" ref="index"/>
+    <file name="2053x76.jpg" crc="242981310" seo="true" ref="index"/>
+    <file name="2153x76.jpg" crc="4292688993" seo="true" ref="index"/>
+    <file name="2253x76.jpg" crc="469497991" seo="true" ref="index"/>
+    <file name="2353x76.jpg" crc="4104550557" seo="true" ref="index"/>
+    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="index"/>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="index"/>
+    <file name="arrows-mn_arrow_right white.png" crc="3810799187" ref="index"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index"/>
+    <file name="arrows-mn_close white.png" crc="4081992300" ref="index"/>
+    <file name="arrows-mn_close.png" crc="206776778" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="jk1.jpg" crc="274318599" seo="true" ref="index"/>
+    <file name="jk2.jpg" crc="4288631903" ref="index:being-female"/>
+    <file name="jk3.jpg" crc="4292057478" seo="true" ref="index"/>
+    <file name="connor-crop-u15462.jpg" crc="4214179835" ref="index"/>
+    <file name="miguel1.jpg" crc="21909631" seo="true" ref="index"/>
+    <file name="miguel2.jpg" crc="3782836018" ref="index:design-in-portugal"/>
+    <file name="miguel3.jpg" crc="387601037" seo="true" ref="index"/>
+    <file name="john-crop-u15575.jpg" crc="3903009346" ref="index"/>
+    <file name="untitled-1.jpg" crc="4237204063" seo="true" ref="index"/>
+    <file name="beth-crop-u15620.jpg" crc="448323898" ref="index"/>
+    <file name="beth1.jpg" crc="203087647" seo="true" ref="index"/>
+    <file name="beth2.jpg" crc="403691540" ref="index:her-sound"/>
+    <file name="teona.jpg" crc="68110567" seo="true" ref="index"/>
+    <file name="teonaa.jpg" crc="533275165" seo="true" ref="index"/>
+    <file name="leavenotrace1.jpg" crc="3847399736" ref="index:leave-no-trace"/>
+    <file name="leavenotrace2.jpg" crc="3832892476" seo="true" ref="index"/>
+    <file name="leavenotrace3.jpg" crc="483867693" seo="true" ref="index"/>
+    <file name="joshj1-crop-u7288.jpg" crc="273023365" ref="index"/>
+    <file name="joshj2-crop-u15839.jpg" crc="4071331470" ref="index"/>
+    <file name="joshj3.jpg" crc="4160858176" ref="index:life-online"/>
+    <file name="ilona2.jpg" crc="198774429" seo="true" ref="index"/>
+    <file name="ilona3.jpg" crc="3890639610" ref="index:magazine-colour-trends"/>
+    <file name="ben1.jpg" crc="31919315" seo="true" ref="index"/>
+    <file name="ben2.jpg" crc="3940043159" seo="true" ref="index"/>
+    <file name="ben3.jpg" crc="390994068" ref="index:multicultural-london-english"/>
+    <file name="katherine1.jpg" crc="454897203" ref="index:not-made-here"/>
+    <file name="katherine2.jpg" crc="3889001416" seo="true" ref="index"/>
+    <file name="outofsight.jpg" crc="3840935841" ref="index:out-of-sight,-out-of-mind"/>
+    <file name="photoshopcosmetics.jpg" crc="4291873731" ref="index:photoshop-cosmetic"/>
+    <file name="sanamimage.jpg" crc="4268732486" ref="index:play.learn"/>
+    <file name="stephan1.jpg" crc="4087335663" seo="true" ref="index"/>
+    <file name="stephan2.jpg" crc="250657716" ref="index:reality-to-fantasy"/>
+    <file name="stephan3.jpg" crc="4273239971" seo="true" ref="index"/>
+    <file name="jenleo2.jpg" crc="3834515360" ref="index:there-is-no-place"/>
+    <file name="hyeyoon.jpg" crc="36338165" ref="index:scent-visualisation"/>
+    <file name="webimages.png" crc="4164698809" ref="index:seek"/>
+    <file name="kk-crop-u16281.jpg" crc="518631462" ref="index"/>
+    <file name="trishna.jpg" crc="3774743833" ref="index:translation-aid-for-gurkhas"/>
+    <file name="project image for website- ella fynmore.jpg" crc="82016000" ref="index:wander"/>
+    <file name="joshs1.jpg" crc="56521284" seo="true" ref="index"/>
+    <file name="joshs2.jpg" crc="521182916" ref="index:sa-magazine"/>
+    <file name="greeeeen.png" crc="3864800900" seo="true" ref="future-foods:reality-to-fantasy:photoshop-cosmetic:there-is-no-place:being-female:data-travel:wise-waste:translation-aid-for-gurkhas:her-sound:in-between:multicultural-london-english:life-online:magazine-colour-trends:not-made-here:leave-no-trace:sa-magazine:scent-visualisation:seek:design-in-portugal:out-of-sight,-out-of-mind:sunny-skies:play.learn:wander"/>
+    <file name="f3blk.svg" crc="309841041" ref="future-foods:reality-to-fantasy:photoshop-cosmetic:there-is-no-place:being-female:data-travel:wise-waste:translation-aid-for-gurkhas:her-sound:in-between:multicultural-london-english:life-online:magazine-colour-trends:not-made-here:leave-no-trace:sa-magazine:scent-visualisation:seek:design-in-portugal:out-of-sight,-out-of-mind:sunny-skies:play.learn:wander"/>
+    <file name="f3blk_poster_.png" crc="3837582478" ref="future-foods"/>
+    <file name="arrow-rightjpg.svg" crc="3832454720" ref="future-foods:reality-to-fantasy:photoshop-cosmetic:there-is-no-place:being-female:data-travel:wise-waste:translation-aid-for-gurkhas:her-sound:in-between:multicultural-london-english:life-online:magazine-colour-trends:not-made-here:leave-no-trace:sa-magazine:scent-visualisation:seek:design-in-portugal:out-of-sight,-out-of-mind:sunny-skies:play.learn:wander"/>
+    <file name="arrow-rightjpg_poster_.png" crc="3996993962" ref="future-foods"/>
+    <file name="untitled-12.jpg" crc="230566389" ref="future-foods"/>
+    <file name="connor.jpg" crc="4082227581" ref="data-travel"/>
+    <file name="kk.jpg" crc="3856540374" ref="wise-waste"/>
+    <file name="teona 2.jpg" crc="3998802585" ref="in-between"/>
+    <file name="sophia1.jpg" crc="3769941639" ref="sunny-skies"/>
+  </folder>
+  <file name="index.html" crc="4044066758" seo="true" mt="1465935032910" redirect="true"/>
+  <file name="future-foods.html" crc="4180296475" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="reality-to-fantasy.html" crc="4082304837" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="photoshop-cosmetic.html" crc="4019888771" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="there-is-no-place.html" crc="473048064" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="being-female.html" crc="4266241976" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="data-travel.html" crc="201696047" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="wise-waste.html" crc="4105483134" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="translation-aid-for-gurkhas.html" crc="485709287" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="her-sound.html" crc="40433211" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="in-between.html" crc="4053877037" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="multicultural-london-english.html" crc="50269900" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="life-online.html" crc="4060848048" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="magazine-colour-trends.html" crc="470302997" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="not-made-here.html" crc="3973308630" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="leave-no-trace.html" crc="301127289" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="sa-magazine.html" crc="4103178675" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="scent-visualisation.html" crc="4013555930" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="seek.html" crc="3978409713" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="design-in-portugal.html" crc="94456835" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="out-of-sight,-out-of-mind.html" crc="218833701" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="sunny-skies.html" crc="4136533280" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="play.learn.html" crc="167838103" seo="true" mt="1465930197976" redirect="true"/>
+  <file name="wander.html" crc="397898731" seo="true" mt="1465930197976" redirect="true"/>
+</manifest>

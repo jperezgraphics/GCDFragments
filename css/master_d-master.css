@@ -1,0 +1,20 @@
+#u19450,#u13833
+{
+	background-color: transparent;
+	-webkit-transform: matrix(-0.7431,0.6691,-0.6691,-0.7431,47,27);
+	-ms-transform: matrix(-0.7431,0.6691,-0.6691,-0.7431,47,27);
+	transform: matrix(-0.7431,0.6691,-0.6691,-0.7431,47,27);
+}
+
+#u13833:hover
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u13834
+{
+	display: block;
+}
+
